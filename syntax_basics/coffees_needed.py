@@ -1,5 +1,6 @@
 action = input()
 coffees = 0
+
 while action != "END":
     if action == "CODING" or action == "DOG" or action == "MOVIE" or action == "CAT":
         coffees += 2
