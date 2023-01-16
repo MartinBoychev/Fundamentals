@@ -7,7 +7,7 @@ for _ in range(n):
         print("Hello")
     elif code == 86:
         print("How are you?")
-    elif code < 88 and code != 86:
+    elif code < 88:
         print("GREAT!")
     else:
         print("Bye.")
