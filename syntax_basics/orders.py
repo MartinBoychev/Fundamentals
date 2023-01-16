@@ -9,6 +9,4 @@ for _ in range(n):
     if 0.01 <= price_capsule <= 100.00 and 1 <= days <= 31 and 1 <= capsules_per_day <= 2000:
         print(f"The price for the coffee is: ${total_price:.2f}")
         total_money += total_price
-    else:
-        pass
 print(f"Total: ${total_money:.2f}")
