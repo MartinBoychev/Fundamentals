@@ -6,6 +6,7 @@
 # print the liters in the tank.
 
 nums = int(input())
+
 liquid = 0
 
 for _ in range(nums):
