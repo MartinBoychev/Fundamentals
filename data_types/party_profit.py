@@ -9,7 +9,6 @@
 # but every 15th (fifteenth) day 5 (five) new companions are joined at the beginning of the day.
 # You should calculate how many coins gets each companion at the end of the adventure.
 
-
 group_size = int(input())
 days = int(input())
 coins = 50 - group_size * 2
