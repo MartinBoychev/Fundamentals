@@ -11,7 +11,6 @@
 # (snowball_weight / snowball_time) ** snowball_quality
 # In the end, you must print the highest calculated value of a snowball.
 
-
 num_snowballs = int(input())
 snowball_weight_highest = 0
 snowball_time_highest = 0
