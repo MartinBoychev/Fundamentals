@@ -17,7 +17,7 @@
 # Output
 # ⦁	As output, you must print Peter`s total expenses for new equipment: "Gladiator expenses: {expenses} aureus"
 
-lost_fights_count = int(input())
+lost_fights = int(input())
 helmet_price = float(input())
 sword_price = float(input())
 shield_price = float(input())
@@ -28,7 +28,7 @@ shields = 0
 armors = 0
 repair_cost = 0
 
-for fight in range(1, lost_fights_count + 1):
+for fight in range(1, lost_fights + 1):
     if fight % 2 == 0:
         helmets += 1
     if fight % 3 == 0:
