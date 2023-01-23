@@ -12,7 +12,3 @@ for i in range(1, num2 + 1):
     my_list.append(b)
 
 print(my_list)
-
-
-
-
