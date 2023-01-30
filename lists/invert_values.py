@@ -5,8 +5,8 @@
 my_list = input().split()
 opposite_list = []
 
-for i in range(len(my_list)):
-    opposite_number = -int(my_list[i])
+for i in my_list:
+    opposite_number = -int(i)
     opposite_list.append(opposite_number)
 
 print(opposite_list)
