@@ -4,7 +4,7 @@
 # parameters. Print the result of the subtract() function on the console.
 
 def sum_numbers(a, b):
-    return first_num + sec_num
+    return a + b
 
 
 def subtract(a, b):
