@@ -3,8 +3,8 @@
 
 def even_numbers(num):
     num = list(map(int, num.split()))
-    even_numbers = list(filter(lambda x: x % 2 == 0, num))
-    return even_numbers
+    even_nums = list(filter(lambda x: x % 2 == 0, num))
+    return even_nums
 
 
 numbers = input()
