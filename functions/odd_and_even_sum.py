@@ -3,14 +3,14 @@
 # Even sum = {sum_of_even_digits}" Print the result of the function on the console.
 
 
-def sum_of_digits(numb):
+def sum_of_digits(number):
     odd_sum = 0
     even_sum = 0
-    for i in range(len(numb)):
-        if int(numb[i]) % 2 == 0:
-            even_sum += int(numb[i])
+    for i in range(len(number)):
+        if int(number[i]) % 2 == 0:
+            even_sum += int(number[i])
         else:
-            odd_sum += int(numb[i])
+            odd_sum += int(number[i])
     print(f"Odd sum = {odd_sum}, Even sum = {even_sum}")
 
 
