@@ -23,7 +23,7 @@ neighborhood = [int(n) for n in input().split('@')]
 
 command = input()
 jump_length = 0
-while not command == 'Love!':
+while command != 'Love!':
     jump, index = command.split()
     index = int(index)
     jump_length += index
