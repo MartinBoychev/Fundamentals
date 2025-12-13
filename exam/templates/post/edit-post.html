@@ -1,0 +1,16 @@
+{% extends 'base.html' %}
+{% block page_content %}
+
+        <!-- Edit Post Form -->
+        <section id="edit">
+            <div class="form">
+                <h2>Edit Post</h2>
+                <form class="edit-form" method="POST" action="{% url 'edit-post' post_id=post.pk %}">
+                    {{ form }}
+                    {% csrf_token %}
+                    <button type="submit">Edit</button>
+                </form>
+            </div>
+        </section>
+
+{% endblock %}

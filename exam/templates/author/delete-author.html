@@ -1,0 +1,20 @@
+{% extends 'base.html' %}
+{% block page_content %}
+
+    <section id="edit">
+
+        <div class="form">
+            <h1>You are about to delete your Author's Profile</h1>
+            <!-- Delete Author's Profile Form -->
+            <form id='delete' class="register-form" method="POST" action="{% url 'delete-author' %}">
+                {{ form }}
+                {% csrf_token %}
+
+                <!-- Confirm Button -->
+                <button type="submit">Confirm</button>
+
+            </form>
+        </div>
+        <!-- End Delete Form -->
+    </section>
+{% endblock %}

@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ee7ac2df-f312-4a69-9b6d-f77d47813386" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../exam/.idea/ExamProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/author/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/author/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/author/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/author/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/author/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/author/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/author/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/author/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/author/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/author/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/common/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/common/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/common/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/common/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/common/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/common/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/common/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/core/custom_validators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/core/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/posts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/posts/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/posts/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/posts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/posts/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/posts/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/posts/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/posts/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/posts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/posts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/exam_project/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/static/images/cats.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/static/images/default.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/static/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/static/styles/dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/static/styles/details.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/static/styles/form.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/static/styles/navigation.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/static/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/templates/author/create-author.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/templates/author/delete-author.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/templates/author/details-author.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/templates/author/edit-author.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/templates/common/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/templates/common/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/templates/post/create-post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/templates/post/delete-post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/templates/post/details-post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../exam/templates/post/edit-post.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Python.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Basics" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/.idea/OOP.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/Fundamentals" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../OOP/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Playground" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/.idea/exam.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../exam/.idea/exam.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../exam/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/project.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/project/climbers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/project/climbers/arctic_climber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/project/climbers/base_climber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/project/climbers/summit_climber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/project/peaks/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/project/peaks/arctic_peak.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/project/peaks/base_peak.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/project/peaks/summit_peak.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam/project/summit_quest_manager_app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1/.idea/exam1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1/project.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1/project/campaigns/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1/project/campaigns/base_campaign.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1/project/campaigns/high_budget_campaign.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1/project/campaigns/low_budget_campaign.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1/project/influencer_manager_app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1/project/influencers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1/project/influencers/base_influencer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1/project/influencers/premium_influencer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../exam1/project/influencers/standard_influencer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/climbers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/climbers/arctic_climber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/climbers/base_climber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/climbers/summit_climber.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/peaks/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/peaks/arctic_peak.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/peaks/base_peak.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/peaks/summit_peak.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../project/summit_quest_manager_app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/pythonProject.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/bank_app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/clients/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/clients/adult.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/clients/base_client.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/clients/student.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/loans/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/loans/base_loan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/loans/mortgage_loan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/loans/student_loan.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/.idea/pythonProject1.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/caller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/main_app/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/main_app/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/main_app/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/main_app/migrations/0001_initial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/main_app/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/main_app/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/main_app/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/main_app/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/manage.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/orm_skeleton/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/orm_skeleton/asgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/orm_skeleton/settings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/orm_skeleton/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/orm_skeleton/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pythonProject1/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing/.idea/testing.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing/project.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing/project/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing/project/social_media.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing/project/test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../testing/project/test/test.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MartinBoychev"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/MartinBoychev/Fundamentals",
+    "accountId": "6b6bee16-fb6a-45f0-bd5f-70ce39f354a7"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2yqvtShSsH1t0GNrHNErzFzg83b" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.OpenDjangoStructureViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Python\DjangoProject" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="DjangoProject" type="Python.DjangoServer" factoryName="Django server">
+      <module name="DjangoProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <option name="port" value="8000" />
+      <option name="host" value="" />
+      <option name="additionalOptions" value="" />
+      <option name="browserUrl" value="" />
+      <option name="runTestServer" value="false" />
+      <option name="runNoReload" value="false" />
+      <option name="useCustomRunCommand" value="false" />
+      <option name="customRunCommand" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b26f3e71634d-JavaScript-PY-251.26094.141" />
+        <option value="bundled-python-sdk-9f8e2b94138c-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.26094.141" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ee7ac2df-f312-4a69-9b6d-f77d47813386" name="Changes" comment="" />
+      <created>1750575133066</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1750575133066</updated>
+      <workItem from="1750575134210" duration="73000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
